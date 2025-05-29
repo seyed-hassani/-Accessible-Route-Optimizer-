@@ -1,0 +1,59 @@
+from_stop,to_stop,route_id,travel_time,wheelchair_accessible,has_elevator,has_stairs,low_floor,wide_doors
+Union Station,King,1,3,true,true,false,true,true
+King,Queen,1,2,true,false,true,true,true
+Queen,Dundas,1,2,true,false,true,true,true
+Dundas,College,1,3,false,false,true,false,false
+College,Wellesley,1,2,true,true,false,true,true
+Wellesley,Bloor-Yonge,1,4,true,true,true,true,true
+Bloor-Yonge,Rosedale,1,3,false,false,true,false,false
+Rosedale,Summerhill,1,2,false,false,true,false,false
+Summerhill,St. Clair,1,3,true,true,false,true,true
+St. Clair,Davisville,1,2,true,false,true,true,true
+Davisville,Eglinton,1,3,true,true,true,true,true
+Eglinton,Lawrence,1,4,true,false,true,true,true
+Lawrence,York Mills,1,3,false,false,true,false,false
+York Mills,Sheppard-Yonge,1,4,true,true,true,true,true
+Sheppard-Yonge,North York Centre,1,3,true,true,false,true,true
+North York Centre,Finch,1,2,true,true,true,true,true
+Bloor-Yonge,Bay,2,2,true,true,false,true,true
+Bay,St. George,2,2,true,false,true,true,true
+St. George,Spadina,2,3,true,true,true,true,true
+Spadina,Christie,2,2,false,false,true,false,false
+Christie,Bathurst,2,2,true,false,true,true,true
+Bathurst,Dufferin,2,3,true,false,true,true,true
+Dufferin,Ossington,2,2,false,false,true,false,false
+Ossington,Dovercourt,2,2,false,false,true,false,false
+Dovercourt,Lansdowne,2,3,true,true,false,true,true
+Lansdowne,Dundas West,2,2,true,false,true,true,true
+St. George,Museum,2,2,true,true,false,true,true
+Museum,Queen's Park,2,1,true,false,true,true,true
+Queen's Park,St. Patrick,2,2,false,false,true,false,false
+St. Patrick,Osgoode,2,2,true,true,false,true,true
+Osgoode,St. Andrew,2,2,true,false,true,true,true
+St. Andrew,Union Station,2,3,true,true,true,true,true
+Bloor-Yonge,Sherbourne,3,3,true,true,false,true,true
+Sherbourne,Castle Frank,3,2,false,false,true,false,false
+Castle Frank,Broadview,3,4,true,false,true,true,true
+Broadview,Chester,3,2,false,false,true,false,false
+Chester,Pape,3,3,true,true,false,true,true
+Pape,Donlands,3,2,true,false,true,true,true
+Donlands,Greenwood,3,2,false,false,true,false,false
+Greenwood,Coxwell,3,3,true,false,true,true,true
+Coxwell,Woodbine,3,2,true,true,false,true,true
+Woodbine,Main Street,3,3,false,false,true,false,false
+Main Street,Victoria Park,3,4,true,true,true,true,true
+Victoria Park,Warden,3,3,true,false,true,true,true
+Warden,Kennedy,3,4,true,true,false,true,true
+Sheppard-Yonge,Bayview,4,3,true,true,false,true,true
+Bayview,Bessarion,4,2,true,false,true,true,true
+Bessarion,Leslie,4,2,true,false,true,true,true
+Leslie,Don Mills,4,3,true,true,false,true,true
+St. George,Spadina,5,1,true,true,true,true,true
+Spadina,Dupont,5,2,true,false,true,true,true
+Dupont,Davenport,5,2,false,false,true,false,false
+Davenport,Lansdowne,5,3,true,true,false,true,true
+Lansdowne,Dufferin,5,2,true,false,true,true,true
+Dufferin,Ossington,5,2,false,false,true,false,false
+Ossington,Christie,5,2,false,false,true,false,false
+Christie,Bathurst,5,2,true,false,true,true,true
+Bathurst,Spadina,5,2,true,true,true,true,true
