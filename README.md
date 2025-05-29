@@ -8,14 +8,14 @@ A Python-based routing engine that finds the most accessible public transit path
 ### 🔹 Full Transit Network
 Visual representation of all stations and connections with travel times.
 
-![Full Transit Network](figures/output.png)
+![Full Transit Network](Figures/output.png)
 
 ---
 
 ### ♿ Accessible Route Highlighted
 This view highlights only the accessible path from Union Station to Yorkdale.
 
-![Accessible Path](figures/output2.png)
+![Accessible Path](Figures/output2.png)
 
 ## 🚀 Features
 
