@@ -3,6 +3,19 @@
 A Python-based routing engine that finds the most accessible public transit paths for people with mobility needs. Built using Dijkstra's algorithm and designed to follow AODA compliance standards.
 
 ---
+## 🗺️ Transit Network Visualizations
+
+### 🔹 Full Transit Network
+Visual representation of all stations and connections with travel times.
+
+![Full Transit Network](figures/output.png)
+
+---
+
+### ♿ Accessible Route Highlighted
+This view highlights only the accessible path from Union Station to Yorkdale.
+
+![Accessible Path](figures/output2.png)
 
 ## 🚀 Features
 
