@@ -37,7 +37,7 @@ This view highlights only the accessible path from Union Station to Yorkdale.
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -87,7 +87,7 @@ accessible-route-optimizer/
 
 ---
 
-## 🚌 Usage Examples
+##  Usage Examples
 
 ### Basic routing
 ```python
