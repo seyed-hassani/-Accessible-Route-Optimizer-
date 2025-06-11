@@ -139,7 +139,7 @@ King,Queen,1,2,true,false
 
 ---
 
-## 🎯 Roadmap
+##  Roadmap
 
 - [ ] **Real-time data integration** (GTFS-RT support)
 - [ ] **Web dashboard** for route visualization
@@ -150,7 +150,7 @@ King,Queen,1,2,true,false
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
@@ -162,7 +162,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -170,7 +170,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **AODA Standards** for accessibility guidelines
 - **OpenStreetMap** community for transit data
