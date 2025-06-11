@@ -1,9 +1,9 @@
-# ♿ Accessible Route Optimizer
+# Accessible Route Optimizer
 
 A Python-based routing engine that finds the most accessible public transit paths for people with mobility needs. Built using Dijkstra's algorithm and designed to follow AODA compliance standards.
 
 ---
-## 🗺️ Transit Network Visualizations
+##  Transit Network Visualizations
 
 ### 🔹 Full Transit Network
 Visual representation of all stations and connections with travel times.
@@ -12,12 +12,12 @@ Visual representation of all stations and connections with travel times.
 
 ---
 
-### ♿ Accessible Route Highlighted
+###  Accessible Route Highlighted
 This view highlights only the accessible path from Union Station to Yorkdale.
 
 ![Accessible Path](Figures/output2.png)
 
-## 🚀 Features
+##  Features
 
 - **Graph-based routing** using NetworkX
 - **Accessibility-aware pathfinding** (avoids stairs, includes elevator outages)
@@ -28,7 +28,7 @@ This view highlights only the accessible path from Union Station to Yorkdale.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Load transit map** (nodes = stops/stations, edges = routes)
 2. **Tag accessibility features** (elevator, low-floor, wheelchair access)
@@ -57,7 +57,7 @@ python src/main.py --start "Union Station" --end "Yorkdale" --accessible-only
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python 3.10+**
 - **NetworkX** - Graph data structures and algorithms
@@ -67,7 +67,7 @@ python src/main.py --start "Union Station" --end "Yorkdale" --accessible-only
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 accessible-route-optimizer/
@@ -116,7 +116,7 @@ path = router.find_accessible_path("Dundas", "St. George")
 
 ---
 
-## 📊 Data Format
+##  Data Format
 
 ### Transit Network CSV
 ```csv
